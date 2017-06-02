@@ -1,0 +1,5 @@
+http://codecriticon.com/introduccion-patrones-diseno/
+
+
+Mejores prácticas en BPMN
+http://help.bizagi.com/bpm-suite/es/index.html?what_to_avoid_when_process_model.htm

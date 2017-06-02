@@ -1,0 +1,21 @@
+* Subrayar con colores para asociar, hacerlo en cada pasada
+
+Bibliografía
+
+Rozanski Nick, Eoin woods. Software Systems Architecture: Working With Stakeholders Using Viewpoints and Perspectives (2nd Edition). Addison-Wesley Professional; 2 edition, November 4, 2011.
+Bass, L. Clements, P., Kazman, R., “Software Architecture in Practice (SEI Series in Software Engineering)”, Addison-Wesley Professional; 3 edition (October 5, 2012).
+Paul Clements et al, “Evaluating Software Architectures”, Addison Wesley, 2002.
+Erl, T., “SOA Principles of Service Design”, Prentice Hall, 2008.
+Richard Taylor, Nenad Medvidovic, Eric Dashofy. “Software Architecture Foundations, Theory and Practice, 2009.
+Frank Buschmann, Kevin Henney, Douglas Schmidt. Pattern-Oriented Software Architecture. Volume 4.
+John Reekie, Rohan McAdam. A Software Architecture Primer. Angophora Press. 2006.
+Jan Bosh. Design & Use of Software Architecture. Addison-Wesley. 2000.
+Kai Qian et Al. Software Architecture and Design Illuminated. 2010.
+Paul Clements, et al. Documenting Software Architectures: Views and Beyond (2nd Edition), Addison-Wesley Professional; 2 edition. October 15, 2010.
+Peter Eeles, Peter Crips. The Process of Software Architecting. Addison-Wesley Professional; 1 edition, July 24, 2009.
+Dave Hendricksen, 12 Essential Skills for Software Architects. Addison-Wesley Professional; 1 edition. October 5, 2011.
+Anthony Lattanze. Architecting Software Intensive Systems: A Practitioners Guide. Auerbach Publications, November 18, 2008.
+
+
+Tips de estudio 
+https://psychcentral.com/lib/top-10-most-effective-study-habits/
